@@ -1,0 +1,33 @@
+datasets:
+  finetuning:
+    -
+      title: "A gold standard for polarity of emotions of software developers in GitHub"
+      paper: "N. Novielli, F. Calefato, D. Dongiovanni, D. Girardi, F. Lanubile (2020). 'Can We Use SE-specific Sentiment Analysis Tools in a Cross-Platform Setting?'. In Proceedings of the 17th International Conference on Mining Software Repositories (MSR 2020)."
+      contains: "GitHub pull requests and commit comments."
+      url: "https://figshare.com/articles/dataset/A_gold_standard_for_polarity_of_emotions_of_software_developers_in_GitHub/11604597"
+    -
+      title: "Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT"
+      paper: "'Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT,' in 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020 pp. 162-173."
+      contains: "sentences from Stack Overflow"
+      url: "https://www.dropbox.com/sh/0dzw55rqo7e6k2g/AACoeQFRyx-VBoy0tC1EBCwJa?dl=0"
+    -
+      title: "Automatic Mining of Opinions Expressed About APIs in Stack Overflow"
+      paper: "G. Uddin and F. Khomh, 'Automatic Mining of Opinions Expressed About APIs in Stack Overflow' in IEEE Transactions on Software Engineering, vol. 47, no. 03, pp. 522-559, 2021."
+      contains: "API reviews"
+      url: "https://github.com/giasuddin/OpinionValueTSE/blob/master/BenchmarkUddinSO-ConsoliatedAspectSentiment.xls"
+    -
+      title: "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?"
+      paper: "T. Zhang, et al., 'Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?,' in 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020 pp. 70-80."
+      contains: "sentences from Stack Overflow"
+      url: "https://sentiment-se.github.io/replication.zip"
+    -
+      title: "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?"
+      paper: "T. Zhang, et al., 'Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?,' in 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020 pp. 70-80."
+      contains: "Jira issue comments"
+      url: "https://sentiment-se.github.io/replication.zip"
+    -
+  exploration:
+    -
+      title: "20-MAD"
+      paper: "M. Claes and M. V. Mäntylä, '20-MAD - 20 Years of Issues and Commits of Mozilla and Apache Development,' 2020 IEEE/ACM 17th International Conference on Mining Software Repositories (MSR), Seoul, Korea, Republic of, 2020, pp. 503-507"
+      url: "https://osf.io/kvxr4/"

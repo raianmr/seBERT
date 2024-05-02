@@ -132,6 +132,7 @@ protobuf==3.12.4
 psutil==5.9.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pyarrow==16.0.0
 pycairo==1.20.1
 pycparser==2.22
 pycups==2.0.1
@@ -212,5 +213,5 @@ websocket-client==1.7.0
 widgetsnbextension==4.0.10
 xdg==5
 xkit==0.0.0
-xlrd==1.2.0
+xlrd==2.0.1
 zipp==1.0.0
