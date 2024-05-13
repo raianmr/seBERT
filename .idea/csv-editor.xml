@@ -31,7 +31,35 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/notebooks/data/processed/finetuning.csv">
+        <entry key="/notebooks/data/processed/evaluation_ssse_preds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/finetuning_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/finetuning_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/models/evaluation/evaluated.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/models/sentiment/log_history.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
