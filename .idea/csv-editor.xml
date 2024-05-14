@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/processed/20-MAD/commits.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/evaluation_ssse_preds.csv">
           <value>
             <Attribute>
