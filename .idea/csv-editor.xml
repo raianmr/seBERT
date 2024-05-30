@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/meme/customer_support.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/20-MAD/commits.csv">
           <value>
             <Attribute>
@@ -45,7 +52,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/processed/20-MAD/nlp/issue_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/evaluation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/evaluation_only_text.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
