@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/processed/20-MAD/issues.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/evaluation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/evaluation_ssse_preds.csv">
           <value>
             <Attribute>
