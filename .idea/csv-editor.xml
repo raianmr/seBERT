@@ -45,14 +45,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/notebooks/data/processed/20-MAD/issues.csv">
+        <entry key="/notebooks/data/processed/20-MAD/issue_comments.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/notebooks/data/processed/20-MAD/nlp/issue_comments.csv">
+        <entry key="/notebooks/data/processed/20-MAD/issues.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
