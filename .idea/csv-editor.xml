@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/processed/20-MAD/rq/rq1_full_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/20-MAD/rq/rq3_rq4_merged.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/evaluation.csv">
           <value>
             <Attribute>
