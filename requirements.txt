@@ -88,7 +88,7 @@ jupyterlab==4.1.6
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.0
 jupyterlab_widgets==3.0.10
-kernelstub==3.1.4
+# kernelstub==3.1.4
 keyring==23.5.0
 kiwisolver==1.4.5
 language-selector==0.1
