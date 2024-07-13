@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/notebooks/data/processed/20-MAD/nlp/commits.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/notebooks/data/processed/20-MAD/rq/rq1_full_dataset.csv">
           <value>
             <Attribute>
@@ -66,7 +73,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/notebooks/data/processed/20-MAD/rq/rq3_rq4_merged.csv">
+        <entry key="/notebooks/data/processed/20-MAD/rq/rq3_rq4_moudud.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/processed/20-MAD/rq/rq_3_4.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -102,6 +116,20 @@
           </value>
         </entry>
         <entry key="/notebooks/data/processed/finetuning_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/rq34_compat.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/notebooks/data/rq_3_4.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
